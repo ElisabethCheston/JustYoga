@@ -1,0 +1,702 @@
+[
+    {
+       "pk":1,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5001340155",
+          "name":"Yoga Mat - Navy Blue",
+          "description":"The lightweight mat only weighs 2.3kg, so it’s easy to carry to class and the 4mm cushioned gives your hips and joints the support you need. The center line and iconic moon phases are engraved into the surface to help you stay connected and balanced through every transition. Natural rubber, free of PVC or other harmful substances. Rubber yoga mats are 99% latex free, and safe for most people with a latex hypersensitivity. In case of a very severe allergy, contact with the mat is not recommended.",
+          "price":69.99,
+          "category":9,
+          "rating":4.6,
+          "image_url":"https://www.yogagrossisten.se/images/2.145258/yogamatta-all-round-yoga-mat-4-mm-yogiraj.jpeg",
+          "image":"yogamatta-all-round-yoga-mat-4-mm-yogiraj.jpeg"
+       }
+    },
+    {
+       "pk":2,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5001600425",
+          "name":"Yoga Mat - Ivy",
+          "description":"The lightweight mat only weighs 2.3kg, so it’s easy to carry to class and the 4mm cushioned gives your hips and joints the support you need. The center line and iconic moon phases are engraved into the surface to help you stay connected and balanced through every transition. Natural rubber, free of PVC or other harmful substances. Rubber yoga mats are 99% latex free, and safe for most people with a latex hypersensitivity. In case of a very severe allergy, contact with the mat is not recommended.",
+          "price":69.99,
+          "category":9,
+          "rating":4.6,
+          "image_url":"https://www.yogagrossisten.se/images/2.145213/yogamatta-all-round-yoga-mat-4-mm-yogiraj.jpeg",
+          "image":"yogamatta-all-round-yoga-mat-4-mm-yogiraj.jpeg"
+       }
+    },
+    {
+       "pk":3,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5001730010",
+          "name":"Yoga Mat - Plum",
+          "description":"The lightweight mat only weighs 2.3kg, so it’s easy to carry to class and the 4mm cushioned gives your hips and joints the support you need. The center line and iconic moon phases are engraved into the surface to help you stay connected and balanced through every transition. Natural rubber, free of PVC or other harmful substances. Rubber yoga mats are 99% latex free, and safe for most people with a latex hypersensitivity. In case of a very severe allergy, contact with the mat is not recommended.",
+          "price":69.99,
+          "category":9,
+          "rating":4.7,
+          "image_url":"https://www.yogagrossisten.se/images/2.145273/yogamatta-all-round-yoga-mat-4-mm-yogiraj.jpeg",
+          "image":"yogamatta-all-round-yoga-mat-4-mm-yogiraj.jpeg"
+       }
+    },
+    {
+       "pk":4,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5001890157",
+          "name":"Yoga Mat - Olive",
+          "description":"The lightweight mat only weighs 2.3kg, so it’s easy to carry to class and the 4mm cushioned gives your hips and joints the support you need. The center line and iconic moon phases are engraved into the surface to help you stay connected and balanced through every transition. Natural rubber, free of PVC or other harmful substances. Rubber yoga mats are 99% latex free, and safe for most people with a latex hypersensitivity. In case of a very severe allergy, contact with the mat is not recommended.",
+          "price":69.99,
+          "category":9,
+          "rating":3.0,
+          "image_url":"https://www.yogagrossisten.se/images/2.145203/yogamatta-all-round-yoga-mat-4-mm-yogiraj.jpeg",
+          "image":"yogamatta-all-round-yoga-mat-4-mm-yogiraj.jpeg"
+       }
+    },
+    {
+       "pk":5,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002111605",
+          "name":"Yoga Mat - Onyx Black",
+          "description":"The lightweight mat only weighs 2.3kg, so it’s easy to carry to class and the 4mm cushioned gives your hips and joints the support you need. The center line and iconic moon phases are engraved into the surface to help you stay connected and balanced through every transition. Natural rubber, free of PVC or other harmful substances. Rubber yoga mats are 99% latex free, and safe for most people with a latex hypersensitivity. In case of a very severe allergy, contact with the mat is not recommended.",
+          "price":69.99,
+          "category":9,
+          "rating":5.0,
+          "image_url":"https://www.yogagrossisten.se/images/2.158233/yogamatta-grip-mat-5-mm-yogiraj.jpeg",
+          "image":"yogamatta-grip-mat-5-mm-yogiraj.jpeg"
+       }
+    },
+    {
+       "pk":6,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002260206",
+          "name":"Yoga Mat - Navy Blue XL",
+          "description":"The lightweight mat only weighs 2.6kg, so it’s easy to carry to class and the 5mm cushioned gives your hips and joints the support you need. The center line and iconic moon phases are engraved into the surface to help you stay connected and balanced through every transition. Natural rubber, free of PVC or other harmful substances. Rubber yoga mats are 99% latex free, and safe for most people with a latex hypersensitivity. In case of a very severe allergy, contact with the mat is not recommended.",
+          "price":79.99,
+          "category":9,
+          "rating":4.7,
+          "image_url":"https://www.yogagrossisten.se/images/2.145258/yogamatta-all-round-yoga-mat-4-mm-yogiraj.jpeg",
+          "image":"yogamatta-all-round-yoga-mat-4-mm-yogiraj.jpeg"
+       }
+    },
+    {
+       "pk":7,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002440521",
+          "name":"Yoga Mat - Ivy XL",
+          "description":"The lightweight mat only weighs 2.6kg, so it’s easy to carry to class and the 5mm cushioned gives your hips and joints the support you need. The center line and iconic moon phases are engraved into the surface to help you stay connected and balanced through every transition. Natural rubber, free of PVC or other harmful substances. Rubber yoga mats are 99% latex free, and safe for most people with a latex hypersensitivity. In case of a very severe allergy, contact with the mat is not recommended.",
+          "price":79.99,
+          "category":9,
+          "rating":4.4,
+          "image_url":"https://www.yogagrossisten.se/images/2.145213/yogamatta-all-round-yoga-mat-4-mm-yogiraj.jpeg",
+          "image":"yogamatta-all-round-yoga-mat-4-mm-yogiraj.jpeg"
+       }
+    },
+    {
+       "pk":8,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002601115",
+          "name":"Yoga Mat - Plum XL",
+          "description":"The lightweight mat only weighs 2.6kg, so it’s easy to carry to class and the 5mm cushioned gives your hips and joints the support you need. The center line and iconic moon phases are engraved into the surface to help you stay connected and balanced through every transition. Natural rubber, free of PVC or other harmful substances. Rubber yoga mats are 99% latex free, and safe for most people with a latex hypersensitivity. In case of a very severe allergy, contact with the mat is not recommended.",
+          "price":79.99,
+          "category":9,
+          "rating":4.5,
+          "image_url":"https://www.yogagrossisten.se/images/2.145273/yogamatta-all-round-yoga-mat-4-mm-yogiraj.jpeg",
+          "image":"yogamatta-all-round-yoga-mat-4-mm-yogiraj.jpeg"
+       }
+    },
+    {
+       "pk":9,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002690715",
+          "name":"Yoga Mat - Olive XL",
+          "description":"The lightweight mat only weighs 2.6kg, so it’s easy to carry to class and the 5mm cushioned gives your hips and joints the support you need. The center line and iconic moon phases are engraved into the surface to help you stay connected and balanced through every transition. Natural rubber, free of PVC or other harmful substances. Rubber yoga mats are 99% latex free, and safe for most people with a latex hypersensitivity. In case of a very severe allergy, contact with the mat is not recommended.",
+          "price":79.99,
+          "category":9,
+          "rating":4.7,
+          "image_url":"https://www.yogagrossisten.se/images/2.145203/yogamatta-all-round-yoga-mat-4-mm-yogiraj.jpeg",
+          "image":"yogamatta-all-round-yoga-mat-4-mm-yogiraj.jpeg"
+       }
+    },
+    {
+       "pk":10,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002701115",
+          "name":"Yoga Mat - Onyx Black XL",
+          "description":"The lightweight mat only weighs 2.6kg, so it’s easy to carry to class and the 5mm cushioned gives your hips and joints the support you need. The center line and iconic moon phases are engraved into the surface to help you stay connected and balanced through every transition. Natural rubber, free of PVC or other harmful substances. Rubber yoga mats are 99% latex free, and safe for most people with a latex hypersensitivity. In case of a very severe allergy, contact with the mat is not recommended.",
+          "price":79.99,
+          "category":9,
+          "rating":4.4,
+          "image_url":"https://www.yogagrossisten.se/images/2.158233/yogamatta-grip-mat-5-mm-yogiraj.jpeg",
+          "image":"yogamatta-grip-mat-5-mm-yogiraj.jpeg"
+       }
+    },
+    {
+       "pk":11,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002761055",
+          "name":"ASUTRA Organic Yoga Mat Cleaner (Calming Citrus Aroma), 4 fl oz | Comes w/Microfiber Cleaning Towel",
+          "description":"ORGANIC ESSENTIAL OIL AROMATHERAPY: The calming citrus aroma is derived from organic grapefruit and other citrus essential oils, which have therapeutic properties. The crisp yet energizing all-natural citrus scent elevates your awareness. NATURAL INGREDIENTS: The Asutra 100% natural and organic yoga mat spray has been handcrafted by yoga clean freaks. This proprietary formula keeps all mats clean while adding a boost for your mind, body, and soul. ECO-FRIENDLY: Asutra Yoga Mat Detox is an all-natural cleaner made with organic essential oils to keep your mats and props clean and smelling fresh. No harsh ingredients. NO PARABENS, PHOSPHATES, OR BLEACH: Asutra's 100% natural and organic Yoga Mat Cleaner is hand-made with love. It is free from parabens, phosphates, and bleach and contains zero harsh chemicals. PERFECT FOR ALL TYPES OF MATS AND PROPS: Whether you're a hardcore yogi or exercise enthusiast, this mat cleaner is an exceptional choice. It is water-based with essential oil infusions. Simply spray and wipe clean with the included microfiber towel.",
+          "price":14.50,
+          "category":12,
+          "rating":3.5,
+          "image_url":"https://m.media-amazon.com/images/I/81c3h0BAutL._AC_SL1500_.jpg",
+          "image":"81c3h0BAutL._AC_SL1500_.jpg"
+       }
+    },
+    {
+       "pk":12,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002820069",
+          "name":"ASUTRA Organic Yoga Mat Cleaner (Uplifting Eucalyptus Aroma), 4 fl oz | Comes w/Microfiber Cleaning Towel",
+          "description":"ESSENTIAL OIL AROMATHERAPY: Whether you're a hardcore yogi or exercise enthusiast, this mat cleaner is an exceptional choice. The uplifting aroma is derived from organic eucalyptus essential oil, with therapeutic properties. NO PARABENS, PHOSPHATES, OR BLEACH: Asutra's 100% natural and organic Yoga Mat Cleaner is hand-made with love. It is free from parabens, phosphates, and bleach and contains zero harsh chemicals. PERFECT FOR ALL TYPES OF MATS AND PROPS: Whether you're a hardcore yogi or exercise enthusiast, this mat cleaner is an exceptional choice. It is water-based with essential oil infusions. Simply spray and wipe clean with the included microfiber towel.",
+          "price":14.50,
+          "category":12,
+          "rating":4.6,
+          "image_url":"https://m.media-amazon.com/images/I/41WHYtPB0dL._AC_.jpg",
+          "image":"41WHYtPB0dL._AC_.jpg"
+       }
+    },
+    {
+       "pk":13,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002820147",
+          "name":"ASUTRA Organic Yoga Mat Cleaner (Energizing Peppermint Aroma), 4 fl oz | Comes w/Microfiber Cleaning Towel",
+          "description":"ALL-NATURAL INGREDIENTS: Asutra's Yoga Mat Detox allows you to clean and refresh your mats and props with no slippery residue. The peppermint scent is derived from organic peppermint essential oil and has therapeutic properties. NON-TOXIC AND ECO-FRIENDLY: Asutra Yoga Mat Detox is an all-natural, biodegradable cleaner made with organic essential oils to keep your mats and props clean and smelling fresh. No harsh ingredients. HANDCRAFTED YOGA MAT CLEANER: This proprietary mat cleaning formula keeps all mats clean while adding a boost for your mind, body, and soul. This Asutra 100% natural and organic yoga mat spray has been handcrafted by yoga clean freaks. SAFE FOR ALL MATS AND PROPS: Asutra's 100% natural and organic yoga mat spray is the safe solution. It is 100% biodegradable and contains zero harsh chemicals. It has been designed for those who take cleanliness seriously. ORGANIC ESSENTIAL OIL AROMATHERAPY: Whether you're a hardcore yogi or exercise enthusiast, this mat cleaner is an exceptional choice. The crisp mint aroma is derived from organic peppermint essential oil, with therapeutic properties.",
+          "price":14.50,
+          "category":12,
+          "rating":4.2,
+          "image_url":"https://m.media-amazon.com/images/I/81GCrfs73BL._AC_SL1500_.jpg",
+          "image":"81GCrfs73BL._AC_SL1500_.jpg"
+       }
+    },
+    {
+       "pk":14,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002910572",
+          "name":"Yogamatters Reclaim Eco Yoga Brick - Black",
+          "description":"Bricks are ideal for adding lift or grounding in all manner of poses. They can help stabilise and add height in standing and balancing poses or can be placed between the knees to activate the inner leg muscles. The ultimate zero waste choice made from post production waste. Bevelled edges and corners for additional comfort and an easier hand grip. Extra durable and scratch resistant. Light enough to carry between classes, yet sturdy enough to bear your weight in postures. If you'd like to go for a larger size, please find it here. Made in Spain",
+          "price":24.99,
+          "category":12,
+          "rating":4.7,
+          "image_url":"https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Reclaim-Black-Brick-Wrapped_540x.jpg?v=1631614818",
+          "image":"Reclaim-Black-Brick-Wrapped_540x.jpg"
+       }
+    },
+    {
+       "pk":15,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5002990740",
+          "name":"Yogamatters Cork Yoga Wheel",
+          "description":"Evolve and deepen your yoga practice with our Cork Yoga wheel. It’s a revolutionary prop that offers a wide variety of physical benefits and support with challenging postures. With our yoga wheel you can enhance flexibility, strengthen the full body and improve balance and stability. Yoga wheels are fun, dynamic and challenging! Our cork yoga wheel is made from the bark of the cork oak tree, which is a renewable and recyclable resource. Cork bark is naturally antibacterial, eradicating germs and bacteria that cause bad odors, so you can breathe easy knowing that your cork yoga wheel isn’t home to any nasties.",
+          "price":65.99,
+          "category":12,
+          "rating":4.8,
+          "image_url":"https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Cork-Wheel-2.0_540x.jpg?v=1625206751",
+          "image":"Cork-Wheel-2.0_540x.jpg"
+       }
+    },
+    {
+       "pk":16,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003050248",
+          "name":"Yogashorts Joey Coral",
+          "description":"Yogashorts i modellen Joey från Yoga Democracy är ett par sköna, lite kortare yogashorts. Mönstret har starka färger med olika motiv inspirerat från korallrev. Bland annat synsen läcker bläckfisk och exotiska blommor och koraller. Yogashortsen har hög midja, men kan också vikas ner till en låg midja utan att förlora sin passform. Materialet håller in och formar kroppen så shortsen ger ett underbart stöd under yogapasset. De är samtidigt väldigt sköna och känns nästan som ett andra, silkeslent skinn mot huden. ",
+          "price":35.99,
+          "category":3,
+          "rating":4.4,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/5f62112a007b1.jpeg?w=700&auto=format",
+          "image":"5f62112a007b1.jpeg"
+       }
+    },
+    {
+       "pk":17,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003070787",
+          "name":"Yogaleggings Balance Cinnamon High Waist 7/8 - Dharma Bums",
+          "description":"Yogaleggings Balance Cinnamon från Dharma Bums med fantastisk passform och skönt material. Dessa leggings är en riktig favorit med en superfin gråbrun ton och livligt men diskret beige mönster. Yogatightsen har hög midja med bred linning som sitter på plats i alla rörelser. Tillverkade av högkvalitativt, stretchigt material som känns mjukt och följer din kropp i alla positioner under yogapasset. Sömmarna är designade för att inte kännas mot huden och bidrar till komforten. Materialet har 4-vägsstretch, är fuktabsorberande och snabbtorkande samtidigt som det andas. Detta gör att tightsen passar bra till såväl yoga och pilates som gym och annan fitness. Om du ligger mellan två storlekar är det bäst att gå upp en storlek för bästa passform.",
+          "price":69.99,
+          "category":3,
+          "rating":4.4,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/6149d186d3d41.jpeg?w=700&auto=format",
+          "image":"6149d186d3d41.jpeg"
+       }
+    },
+    {
+       "pk":18,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003090182",
+          "name":"Yogabyxor Ananda leggings Forest - Indigo Luna",
+          "description":"Ananda leggings är ett par supersköna, handfärgade yogatights från Indigo Luna. Färgen Forest har en mjuk, mörkgrön nyans som är så vacker och som passar till mycket. Byxorna är tillverkade i mjuk GOTS-certifierad ekologisk bomull. Denna certifiering innebär att bomullen odlas utan GMO, utan skadliga kemikalier som gödselmedel, bekämpningsmedel och insektsmedel, och med spårbarhet från bomullsfält till slutkunden inklusive transaktionscertifikat i varje steg.",
+          "price":69.99,
+          "category":3,
+          "rating":4.8,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/6131b861e6ab7.jpeg?w=700&auto=format",
+          "image":"6131b861e6ab7.jpeg"
+       }
+    },
+    {
+       "pk":19,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003090186",
+          "name":"Yogabyxor Layla Flares Aubergine - Indigo Luna",
+          "description":"Layla flares från Indigo Luna är så mjuka och vackra. Perfekt yoga- och dansbyxa i en vacker mild aubergine färg. När du sätter på dessa kommer du att flöda i flera dagar. Ett vackert, smickrande högt, vikbart midjeband och vida ben. FRIHET! Matcha med den mjuka toppen Boxy Crop Top från samma märke, för att fullända din outfit.",
+          "price":82.99,
+          "category":3,
+          "rating":5.0,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/61c6c4658e62a.jpeg?w=700&auto=format",
+          "image":"61c6c4658e62a.jpeg"
+       }
+    },
+    {
+       "pk":20,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003161326",
+          "name":"Yogaleggings Gaia Lagoon - Urban Goddess",
+          "description":"Urban Godess Yogaleggings Gaia är superbekväma och har tillverkats med mjuk, GOTS-certifierad ekologisk bomull. Yogatightsen har extra lång ben ben som du antingen kan ha rynkade nertill för en snygg effekt eller dra ner över fötterna vid t.ex savasana.  Honeysuckle är en mjuk, havregul nyans. Hög midja för optimal passform och rörlighet när du utför dina asanas. En extra detalj är de snygga sömmarna på baksidan av byxan.",
+          "price":69.99,
+          "category":3,
+          "rating":4.7,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/6142e5412f3b6.jpeg?w=700&auto=format",
+          "image":"6142e5412f3b6.jpeg"
+       }
+    },
+    {
+       "pk":21,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003230723",
+          "name":"Yogabyxa OM Urban Black - Urban Goddess",
+          "description":"Ny härlig yogabyxa i GOTS-certifierad ekologisk bomull ifrån Urban Goddess. Trendiga yoga leggings med lite lösare passform och en sänkt gren vilket gör dessa så underbart sköna till yogan. Hög midja med skönt midjeband. Den fina rynkade sömmen på midjebandets baksida ger dessutom denna byxan en extra snygg detalj. Det nedvikbara midjebandet kan bäras högt eller lågt, vad som känns bra för din kropp. Tack vare den lösare passformen så känner du knappt att du bär dessa leggings och den lite  lösare passformen ger även extra utrymme och frihet att röra sig under ditt yogaflow. På så sätt kan du enkelt göra alla dina favoritasanas.  ",
+          "price":69.99,
+          "category":3,
+          "rating":4.3,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/6142e5f87dc69.jpeg?w=700&auto=format",
+          "image":"6142e5f87dc69.jpeg"
+       }
+    },
+    {
+       "pk":22,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003270936",
+          "name":"Yogabyxa Dakini Pine - Urban Goddess",
+          "description":"Urban Goddess superpopulära yogabyxa Dakini är både snygga och sköna! Byxan har en bekväm lös passform och är producerade med ekologisk bomull av högsta kvalitét. Midjebandet är mjukt och rakt för att ge stöd åt magen, medan mittparten av byxorna har av en lösare passform ner till anklarna, som även de är mer åtsmitande - vilket gör att de håller sig på plats också vid de uppochnervända yogaposerna. Byxorna är perfekta då du inte vill ha tajta yogaleggings, eller för de yogisar som helt enkelt trivs bättre i lösare byxor överlag. Oavsett vilket så är Dakini yogabyxor ett utomordentligt tillskott i garderoben - både till yoga och för att slappa i hemma.",
+          "price":69.99,
+          "category":3,
+          "rating":5.0,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/6141f9329d792.jpeg?w=700&auto=format",
+          "image":"6141f9329d792.jpeg"
+       }
+    },
+    {
+       "pk":23,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003360384",
+          "name":"Byxor Annabell Satin Taupe - DOM",
+          "description":"Byxor i modellen Annabell och färgen Satin Taupe från Drop of Mindfulness. Superhärlig mjukisbyxa med högre midja och hög mud vid anklar. Skönt, lösare passform, resår vid benslut och snörning i midjan. Har två praktiska sneda fickor på sidan. Byxorna är perfekta att ha att mysa i på fritiden eller till och från dina Yogklasser. I snygg ljusbeige nyans med gråa toner som går att matcha ihop med allt annat i yogagraderoben! ",
+          "price":49.99,
+          "category":3,
+          "rating":4.8,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/61544e1ea329e.jpeg?w=700&auto=format",
+          "image":"61544e1ea329e.jpeg"
+       }
+    },
+    {
+       "pk":24,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003440111",
+          "name":"Byxor Aladin Pants Black - Soul Factory",
+          "description":"Aladin Pants är en riktig Must have! En storsäljare i Follow Your Soul-kollektionen. Snyggare och mer bekväm byxa får man leta efter. Följsamt, mjukt tyg i GOTS-certifierad bomull. Byxan har en hög midja med slätt midjeband för att undvika veck runt höft/stuss. En lång, lite lösare mudd längst ner som kan rynkas lite olika beroende på hur lång du är. Oavsett hur den rynkas så är det lika snygg och gör att byxans passform blir unik just för dig och din kropp. Vid midjan sitter en fin liten silverfärgad bricka med texten ”Follow Your Soul” som ger en extra detalj till den redan snygga byxan.",
+          "price":82.0,
+          "category":3,
+          "rating":3.8,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/6180eb6262db7.jpeg?w=700&auto=format",
+          "image":"6180eb6262db7.jpeg"
+       }
+    },
+    {
+       "pk":25,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003540313",
+          "name":"Yogabyxa OM Bombay Brown - Urban Goddess",
+          "description":"Ny härlig yogabyxa i GOTS-certifierad ekologisk bomull ifrån Urban Goddess. Trendiga yoga leggings med lite lösare passform och en sänkt gren vilket gör dessa så underbart sköna till yogan. Hög midja med skönt midjeband. Den fina rynkade sömmen på midjebandets baksida ger dessutom denna byxan en extra snygg detalj. Det nedvikbara midjebandet kan bäras högt eller lågt, vad som känns bra för din kropp. Tack vare den lösare passformen så känner du knappt att du bär dessa leggings och den lite  lösare passformen ger även extra utrymme och frihet att röra sig under ditt yogaflow. På så sätt kan du enkelt göra alla dina favoritasanas.",
+          "price":69.99,
+          "category":3,
+          "rating":3.0,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/6142e959ae831.jpeg?w=700&auto=format",
+          "image":"6142e959ae831.jpeg"
+       }
+    },
+    {
+       "pk":26,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003560513",
+          "name":"Yogabyxa Dharma Harem Urban Black - Urban Goddess",
+          "description":"Härliga svarta harem byxor i ekologisk bomull ifrån Urban Goddess . Yoga harem byxor är ett utmärkt val för de lugnare yogaklasserna som tex. yin, dom ger dig fri rörlighet i alla positioner. Dharma yoga haremsbyxor är en lite kortare och modernare version av haremsbyxorna. Du kan enkelt anpassa längden. Använd dem längre som 7/8 yoga byxor eller kortare som 3/4 yoga byxor. Byxorna har ett mjukt elastiskt midjeband, vilket håller byxorna på plats. Du bär yoga haremsbyxorna lite lägre ner på dina höfter, vilket gör den till en bra kombination med en yogatopp eller ett yogalinne med en liten knut. Och när du inte är på din yogamatta kan du bära byxorna för en avslappnad dag på stan eller på stranden. Urban Goddess använder ren ekologisk bomull till sina plagg. Det gör att dina yogakläder kan andas tillsammans med dig. Urban Goddess yogakläder använder ett tryck istället för etiketter för att förhindra irritation eller klåda under din heliga stunder.",
+          "price":65.99,
+          "category":3,
+          "rating":4.4,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/5dc5600ded146.jpeg?w=700&auto=format",
+          "image":"5dc5600ded146.jpeg"
+       }
+    },
+    {
+       "pk":27,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003560948",
+          "name":"Yogaleggings Rustica - Yoga Democracy",
+          "description":"Rustica yogaleggings från Yoga Democracy. Du kommer inte hitta en häftiga byxa just nu! Jag tänker på Kurbits målningar när jag ser dom. Dessutom snyggare i verkligheten. De här yogabyxorna har hög midja, men kan också vikas ner till en låg midja utan att förlora sin passform. Materialet håller in och formar kroppen så byxorna ger ett underbart stöd under yogapasset och passar perfekt för alla kroppstyper.",
+          "price":55.99,
+          "category":3,
+          "rating":5.0,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/5ac789c63bc08.jpeg?w=700&auto=format",
+          "image":"5ac789c63bc08.jpeg"
+       }
+    },
+    {
+       "pk":28,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003570628",
+          "name":"Yogatopp/linne OM Urban black - Urban Goddess",
+          "description":"Denna sköna, stretchiga topp är gjord av 92 % ekologisk bomull och 8% elastan. Toppen är lite längre så den går ner över höften, perfekt för att undvika glipor när du utövar din yoga. Den smala passformen bidrar också till att tröjan inte glider upp under de mer fysiska övningarna.  OM är ett ljud som ofta används i en chant i början eller slutet av en yogaklass eller under meditation. Ljuden som utgör OM representerar livets cykel; skapande, att nå full blomning och till sist transformation. Urban Goddess använder ren ekologisk bomull till  alla sina plagg, vilket gör att kläderna andas på ett naturligt sätt. De använder tryck istället för etiketter på plaggen för att förhindra irritation och att det kliar från etiketter under sköna yogastunder.",
+          "price":42.99,
+          "category":2,
+          "rating":4.3,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/5e4fdda7cd6fd.jpeg?w=700&auto=format",
+          "image":"5e4fdda7cd6fd.jpeg"
+       }
+    },
+    {
+       "pk":29,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003620308",
+          "name":"Yogalinne Bliss Jade - Urban Goddess",
+          "description":"Yogalinnet Bliss från Urban Goddess är en tajt, snygg tank topp med snygga detaljer. Linnet är tillverkat i mjuk, skön GOTS-certifierad eko-bomull.  Tank top med åtsittande passform och en något högre halsringning. Passa lika bra till Yogan som till ett par jeans på fritiden. Den här blir en ny favorit i din garderob. Se alla våra andra ekologiska toppar här.",
+          "price":31.99,
+          "category":2,
+          "rating":4.6,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/60a3acd1389c4.jpeg?w=700&auto=format",
+          "image":"60a3acd1389c4.jpeg"
+       }
+    },
+    {
+       "pk":30,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003690115",
+          "name":"Yogalinne Karna Cami Cloudy Blue - Run & Relax",
+          "description":"Karna Cami Yogalinne med en klassisk ren och fräsch look! Mjuk, seamless Yoga topp tillverkad i naturligt antibakteriell bambutyg. Denna smickrande topp har en fin smal brottarrygg med remmar och är feminint rynkad framtill på bysten. Färgen Cloudy Blue är en mjuk mellanblå nyans som passar bra ihop med många andra färger. Denna topp har också en hög halslinje och inbyggd BH för full täckning och extra stöd under din yogapraktik.",
+          "price":32.99,
+          "category":2,
+          "rating":5.0,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/5fb38c3c5455b.jpeg?w=700&auto=format",
+          "image":"5fb38c3c5455b.jpeg"
+       }
+    },
+    {
+       "pk":31,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003690116",
+          "name":"Yogalinne Open Back Top Black - Mandala",
+          "description":"Snyggt, svart yogalinne i Tencell och eko-bomull. Hög halsringning och en riktigt läcker rygg! Övre delen av ryggen är tillverkad av mesh vilket ger extra bra fukttransport och håller dig sval under ditt yoga/träningspass. Insydd yoga-bh med uttagbar vaddering håller bysten på plats under aktiva yogaövningar. Mjuk och skön känsla mot huden som gör det till en topp man vill bära utanför yogamattan. Funktionellt tyg som har 4-vägsstretch, bra andningsförmåga och transporterar bort fukt från huden.",
+          "price":49.99,
+          "category":2,
+          "rating":4.0,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/6033b4c779317.jpeg?w=700&auto=format",
+          "image":"6033b4c779317.jpeg"
+       }
+    },
+    {
+       "pk":32,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003780391",
+          "name":"Yogalinne Cable Top Black - Mandala",
+          "description":"Populär yoga topp i ekologisk bomull med fina detaljer. En favorit från Mandala då tack vare sömmarna ger en väldig fin figur och passform. Flätade band och insytt stöd för att hålla brösten på plats under aktiva yoga övningar. Mjuk och skön känsla mot huden som gör det till en topp man vill bära utanför yogamattan.",
+          "price":45.99,
+          "category":2,
+          "rating":4.8,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/1158-153514297275.jpeg?w=700&auto=format",
+          "image":"1158-153514297275.jpeg"
+       }
+    },
+    {
+       "pk":33,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003790542",
+          "name":"Shirt; Seek Those Who Fan Your Flames - SuperLove Tees",
+          "description":"Långärmad tröja i sweatshirt modell med mudd vid ärmar och midja. Ett vitt tryck på framsidan med texten: 'Seek Those Who Fan Your Flames' och en vacker bild med ett öga, sol, hjärtan mm. Mjuk och skön, mycket stretchig modell som fungerar lika bra som den är som ovanpå ett annat plagg.",
+          "price":58.99,
+          "category":2,
+          "rating":4.5,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/619de4ea4a809.jpeg?w=700&auto=format",
+          "image":"619de4ea4a809.jpeg"
+       }
+    },
+    {
+       "pk":34,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003831225",
+          "name":"Yogatshirt; Bhav Tunic Pine - Urban Goddess",
+          "description":"Yogatröjan Bhav Tunic i färgen Pine är en tröja med snygg, lite vidare halsringning och mudd nertill så att tröjan inte glider upp under träningspasset oavsett position. Denna fina modell på tröjan passar lika bra på yogamattan som till vardags. I ny vacker smaragdgrön nyans som kommer vara så otroligt snygg till höstens yogaklasser. Den här blir en ny favorit i din garderob. Se alla våra andra ekologiska toppar här.",
+          "price":55.99,
+          "category":2,
+          "rating":4.5,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/6141e9fa0bedc.jpeg?w=700&auto=format",
+          "image":"6141e9fa0bedc.jpeg"
+       }
+    },
+    {
+       "pk":35,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003861402",
+          "name":"Yogashirt; Bhav Tunic Rock - Urban Goddess",
+          "description":"Bhav Rock är en tröja med snygg, lite vidare halsringning och mudd nertill så att tröjan inte glider upp under träningspasset oavsett position. Denna fina modell på tröjan passar lika bra på yogamattan som till vardags. Den här blir en ny favorit i din garderob.",
+          "price":50.99,
+          "category":2,
+          "rating":4.7,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/601119e8ba44d.jpeg?w=700&auto=format",
+          "image":"601119e8ba44d.jpeg"
+       }
+    },
+    {
+       "pk":36,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003910638",
+          "name":"Shirt Hoodie 'Breathe' Black - Soul Factory",
+          "description":"Hoodie BREATHE  är en superhärlig tröja som passar till många olika tillfällen. Tunn och skön i mjuk GOTS-certifierad bomull. Underbara detaljer med tyg som går omlott vid midjan och unika ärmar. På bröstet står texten BREATHE som är påsytt ton-i-ton med tröjan. Vid ena ärmen sitter en liten silverbricka med texten Follow Your Soul.",
+          "price":77.99,
+          "category":2,
+          "rating":4.6,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/6180e8d831408.jpeg?w=700&auto=format",
+          "image":"6180e8d831408.jpeg"
+       }
+    },
+    {
+       "pk":37,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003950574",
+          "name":"Yogashirt wrap tee White - Dharma Bums",
+          "description":"Snyggt vit omlott t-shirt som du knyter i ryggen, vilket gör att du kan anpassa den i storlek något. Smickrande topp som är något kortare. Tillverkad i supermjuk  Modal som både är skön mot huden och snäll mot miljön. Verkligen snygg topp, så går att använda lika bra till yogan som till vardags. ",
+          "price":32.99,
+          "category":2,
+          "rating":4.0,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/603cf8dde1835.jpeg?w=700&auto=format",
+          "image":"603cf8dde1835.jpeg"
+       }
+    },
+    {
+       "pk":38,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003950576",
+          "name":"Yogatröja wrap tee Black - Dharma Bums",
+          "description":"Snyggt svart omlott t-shirt som du knyter i ryggen, vilket gör att du kan anpassa den i storlek något. Smickrande topp som är något kortare. Tillverkad i supermjuk  Modal som både är skön mot huden och snäll mot miljön. Verkligen snygg topp, så går att använda lika bra till yogan som till vardags.",
+          "price":60.99,
+          "category":2,
+          "rating":4.5,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/603cf795a1006.jpeg?w=700&auto=format",
+          "image":"603cf795a1006.jpeg"
+       }
+    },
+    {
+       "pk":39,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003960062",
+          "name":"Home Expressions Microfiber Twin XL Sheet Set",
+          "description":"Show off your fun side with this microfiber sheet set in exciting patterns and colors.  soft microfiber fabric feels great easy-care, long-lasting construction fitted sheet fits mattresses up to 14\" deep Set includes: flat sheet fitted sheet pillowcase Polyester. Washable. Imported. Twin XL: flat 66x96\"; fitted 39x80\"; pillowcase 21x32\"",
+          "price":41.99,
+          "category":3,
+          "rating":3.8,
+          "image_url":"http://s7d2.scene7.com/is/image/JCPenney/DP0715201417203832M.tif?wid=65&hei=65&fmt=jpg&op_usm=.4,.8,0,0&resmode=sharp2",
+          "image":"DP0715201417203832M.jpg"
+       }
+    },
+    {
+       "pk":40,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003960682",
+          "name":"CKofta Easy Wrap Black - Mandala",
+          "description":"En härlig wrap around kofta i sobert svart i ekologisk bomull och modal. Denna kofta passar till flera olika tillfällen, både till och från träningen såsom till vardags till jeansen. Matcha den med ett snyggt Mala halsband ifrån Nouelle. Ett väldigt användbart plagg i garderoben.",
+          "price":55.99,
+          "category":2,
+          "rating":5.0,
+          "image_url":"https://quickbutik.imgix.net/1204f/products/5d5f96fb90ef2.jpeg?w=700&auto=format",
+          "image":"5d5f96fb90ef2.jpeg"
+       }
+    },
+    {
+       "pk":41,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003960775",
+          "name":"RECHARGE JOGGER",
+          "description":"Designed to keep you comfortable anywhere you go, these ultra-soft fleece joggers are the definition of comfort. Premium materials and fabrics allow your body to breathe and move. We choose premium fabrics that are long lasting and durable, soft on the skin and designed specifically for yoga lifestyle.",
+          "price":41.99,
+          "category":7,
+          "rating":3.0,
+          "image_url":"https://cdn.shopify.com/s/files/1/0087/5193/9635/products/2085md_M-PERF-2_2280-Recharge-Jogger-Black.jpg?v=1580212137",
+          "image":"2085md_M-PERF-2_2280-Recharge-Jogger-Black.jpeg"
+       }
+    },
+    {
+       "pk":42,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003990736",
+          "name":"ANYWHERE SHORT",
+          "description":"The Anywhere Short is made for hot yoga and more intense flows. The nylon blend fabric creates a super stretchy, soft and quick-drying short. The front right hand side has an invisible zip pocket for storing valuables. The back left hand side has a towel loop so you can be ready when the heat starts to build up.",
+          "price":118.99,
+          "category":7,
+          "rating":4.7,
+          "image_url":"https://cdn.shopify.com/s/files/1/0087/5193/9635/products/721571-MApparel-AnywhereShort-Black_0827.jpg?v=1622114183",
+          "image":"721571-MApparel-AnywhereShort-Black_0827.jpeg"
+       }
+    },
+    {
+       "pk":43,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5003990746",
+          "name":"Tech Tee",
+          "description":"Crafted from our PRO tech fabric, this performance tee is the best match for any workout. It’s moisture-wicking properties and breathability will keep you cool no matter the challenge.",
+          "price":44.99,
+          "category":6,
+          "rating":4.0,
+          "image_url":"https://cdn.shopify.com/s/files/1/0087/5193/9635/products/2085md_M-PRO-3_1465-Tech-Tee-Silver-Filigree.jpg?v=1580212102",
+          "image":"2085md_M-PRO-3_1465-Tech-Tee-Silver-Filigree.jpeg"
+       }
+    },
+    {
+       "pk":44,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5004111503",
+          "name":"LUNGE SHORT COLORBLOCK",
+          "description":"Designed for the minimalist guy who wants an easy two-in-one short, this pair boasts sweat wicking capabilities, pockets for the essentials and a comfortable built in brief. Wash & dry in low temperatures to prolong garment shelf life while also conserving energy. Always avoid using fabric softeners – they can inhibit wicking and breathability in performance fabrics. Do not dry clean.",
+          "price":55.99,
+          "category":7,
+          "rating":4.9,
+          "image_url":"https://cdn.shopify.com/s/files/1/0087/5193/9635/products/2085md_M-PRO-2_1055-Lunge-Short-Black-Combo.jpg?v=1580212118",
+          "image":"2085md_M-PRO-2_1055-Lunge-Short-Black-Combo.jpeg"
+       }
+    },
+    {
+       "pk":45,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5004230059",
+          "name":"EQUA® YOGA HAND TOWEL",
+          "description":"Absorbent and quick drying, the eQua® Hand Yoga Towel is the perfect accessory to any yoga mat.  Lay the towel on your mat under your hands (or feet) for extra grip and less slip. This small towel is easy to place wherever extra grip is needed throughout your practice. Featuring sweat activated grip, so the more you sweat the better the grip. The eQua® Hand Yoga Towel supports not only your yoga practice, but can be used at the gym, camping, or whenever you're on the go. To prevent color bleeding, we recommend washing your eQua® towels twice with similar colors before use. Using a dark towel with a light mat may result in color transfer unless washed first.",
+          "price":22.0,
+          "category":11,
+          "rating":4.6,
+          "image_url":"https://cdn.shopify.com/s/files/1/0087/5193/9635/products/EquaHandTowel-211011030-Core-Midnight-02.jpg?v=1580292345",
+          "image":"EquaHandTowel-211011030-Core-Midnight-02.jpeg"
+       }
+    },
+    {
+       "pk":46,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5004310089",
+          "name":"YOGITOES® YOGA MAT TOWEL (Geija Purple)",
+          "description":"The most trusted performance yoga towel in the world, yogitoes® help prevent slipping as you start to flow and sweat. Lay this towel on top of your mat to enhance your yoga practice. Ultra absorbent, lightweight and quick drying, yogitoes® features our patented Skidless® Technology, which utilizes silicone nubs to grip your mat and keep you in place. Ideal for hot yoga or any sweaty practice and durable enough to take anywhere: the beach, the gym, Pilates or traveling. Eco-friendly, every towel is made with at least four recycled plastic bottles.",
+          "price":44.99,
+          "category":11,
+          "rating":4.5,
+          "image_url":"https://cdn.shopify.com/s/files/1/0087/5193/9635/products/Yogitoes-MatTowels-262071420-GeijaPurple-02.jpg?v=1636034493",
+          "image":"Yogitoes-MatTowels-262071420-GeijaPurple-02.jpeg"
+       }
+    },
+    {
+       "pk":47,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5004610254",
+          "name":"YOGITOES® YOGA MAT TOWEL (Star Dye Clear Blue)",
+          "description":"The most trusted performance yoga towel in the world, yogitoes® help prevent slipping as you start to flow and sweat. Lay this towel on top of your mat to enhance your yoga practice. Ultra absorbent, lightweight and quick drying, yogitoes® features our patented Skidless® Technology, which utilizes silicone nubs to grip your mat and keep you in place. Ideal for hot yoga or any sweaty practice and durable enough to take anywhere: the beach, the gym, Pilates or traveling. Eco-friendly, every towel is made with at least four recycled plastic bottles.",
+          "price":44.99,
+          "category":11,
+          "rating":5.0,
+          "image_url":"https://cdn.shopify.com/s/files/1/0087/5193/9635/products/262071422-ytr-skidless-71-star-dye-clear-blue-010.jpg?v=1614948098",
+          "image":"262071422-ytr-skidless-71-star-dye-clear-blue-010.jpeg"
+       }
+    },
+    {
+       "pk":48,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5004650050",
+          "name":"Yoga mat bag - Yogiraj",
+          "description":"Ideal carry all yoga mat bag in organic cotton. Zipper along the bag ensuring easy in and out with the mat. Zipped pocket for smaller necessities. Adjustable carry strap. Size: 73 cm x 17 cm diameter, Weight: 0,32 kg, Material: 100% organic cotton.",
+          "price":34.99,
+          "category":10,
+          "rating":3.0,
+          "image_url":"https://www.yogiraj.com/images/2.179217/yoga-mat-bag-yogiraj.jpeg",
+          "image":"yoga-mat-bag-yogiraj.jpeg"
+       }
+    },
+    {
+       "pk":49,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5004821375",
+          "name":"Meditation stool - Yogiraj",
+          "description":"Length: 42 cm, height from front: 14,5 cm, height from behind: 17,5 cm, with: 20 cm, weight: 1.7 kg, material: Birch wood",
+          "price":88.99,
+          "category":12,
+          "rating":4.0,
+          "image_url":"https://www.yogiraj.com/images/2.147643/meditation-stool-yogiraj.jpeg",
+          "image":"meditation-stool-yogiraj.jpeg"
+       }
+    },
+    {
+       "pk":50,
+       "model":"products.product",
+       "fields":{
+          "sku":"pp5004900522",
+          "name":"Yoga mat bag Ann Ringstrand for Yogiraj, Grey melange",
+          "description":"Weight: 0.3 kg, size: 73 cm x 17 cm",
+          "price":66.99,
+          "category":10,
+          "rating":4.6,
+          "image_url":"https://www.yogiraj.com/images/2.140848/yoga-mat-bag-ann-ringstrand-for-yogiraj-grey-melange.jpeg",
+          "image":"yoga-mat-bag-ann-ringstrand-for-yogiraj-grey-melange.jpeg"
+       }
+    }
+ ]
