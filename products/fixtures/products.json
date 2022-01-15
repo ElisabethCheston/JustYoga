@@ -144,7 +144,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5002761055",
-          "name":"ASUTRA Organic Yoga Mat Cleaner (Calming Citrus Aroma), 4 fl oz | Comes w/Microfiber Cleaning Towel",
+          "name":"Organic Yoga Mat Cleaner (Calming Citrus Aroma), 4 fl oz | Comes w/Microfiber Cleaning Towel",
           "description":"ORGANIC ESSENTIAL OIL AROMATHERAPY: The calming citrus aroma is derived from organic grapefruit and other citrus essential oils, which have therapeutic properties. The crisp yet energizing all-natural citrus scent elevates your awareness. NATURAL INGREDIENTS: The Asutra 100% natural and organic yoga mat spray has been handcrafted by yoga clean freaks. This proprietary formula keeps all mats clean while adding a boost for your mind, body, and soul. ECO-FRIENDLY: Asutra Yoga Mat Detox is an all-natural cleaner made with organic essential oils to keep your mats and props clean and smelling fresh. No harsh ingredients. NO PARABENS, PHOSPHATES, OR BLEACH: Asutra's 100% natural and organic Yoga Mat Cleaner is hand-made with love. It is free from parabens, phosphates, and bleach and contains zero harsh chemicals. PERFECT FOR ALL TYPES OF MATS AND PROPS: Whether you're a hardcore yogi or exercise enthusiast, this mat cleaner is an exceptional choice. It is water-based with essential oil infusions. Simply spray and wipe clean with the included microfiber towel.",
           "price":14.50,
           "category":12,
@@ -158,7 +158,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5002820069",
-          "name":"ASUTRA Organic Yoga Mat Cleaner (Uplifting Eucalyptus Aroma), 4 fl oz | Comes w/Microfiber Cleaning Towel",
+          "name":"Organic Yoga Mat Cleaner (Uplifting Eucalyptus Aroma), 4 fl oz | Comes w/Microfiber Cleaning Towel",
           "description":"ESSENTIAL OIL AROMATHERAPY: Whether you're a hardcore yogi or exercise enthusiast, this mat cleaner is an exceptional choice. The uplifting aroma is derived from organic eucalyptus essential oil, with therapeutic properties. NO PARABENS, PHOSPHATES, OR BLEACH: Asutra's 100% natural and organic Yoga Mat Cleaner is hand-made with love. It is free from parabens, phosphates, and bleach and contains zero harsh chemicals. PERFECT FOR ALL TYPES OF MATS AND PROPS: Whether you're a hardcore yogi or exercise enthusiast, this mat cleaner is an exceptional choice. It is water-based with essential oil infusions. Simply spray and wipe clean with the included microfiber towel.",
           "price":14.50,
           "category":12,
@@ -172,7 +172,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5002820147",
-          "name":"ASUTRA Organic Yoga Mat Cleaner (Energizing Peppermint Aroma), 4 fl oz | Comes w/Microfiber Cleaning Towel",
+          "name":"Organic Yoga Mat Cleaner (Energizing Peppermint Aroma), 4 fl oz | Comes w/Microfiber Cleaning Towel",
           "description":"ALL-NATURAL INGREDIENTS: Asutra's Yoga Mat Detox allows you to clean and refresh your mats and props with no slippery residue. The peppermint scent is derived from organic peppermint essential oil and has therapeutic properties. NON-TOXIC AND ECO-FRIENDLY: Asutra Yoga Mat Detox is an all-natural, biodegradable cleaner made with organic essential oils to keep your mats and props clean and smelling fresh. No harsh ingredients. HANDCRAFTED YOGA MAT CLEANER: This proprietary mat cleaning formula keeps all mats clean while adding a boost for your mind, body, and soul. This Asutra 100% natural and organic yoga mat spray has been handcrafted by yoga clean freaks. SAFE FOR ALL MATS AND PROPS: Asutra's 100% natural and organic yoga mat spray is the safe solution. It is 100% biodegradable and contains zero harsh chemicals. It has been designed for those who take cleanliness seriously. ORGANIC ESSENTIAL OIL AROMATHERAPY: Whether you're a hardcore yogi or exercise enthusiast, this mat cleaner is an exceptional choice. The crisp mint aroma is derived from organic peppermint essential oil, with therapeutic properties.",
           "price":14.50,
           "category":12,
@@ -191,7 +191,7 @@
           "price":24.99,
           "category":12,
           "rating":4.7,
-          "image_url":"https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Reclaim-Black-Brick-Wrapped_540x.jpg?v=1631614818",
+          "image_url":"https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Reclaim-Black-Brick-Wrapped_540x.jpg",
           "image":"Reclaim-Black-Brick-Wrapped_540x.jpg"
        }
     },
@@ -200,13 +200,13 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5002990740",
-          "name":"Yogamatters Cork Yoga Wheel",
+          "name":"Cork Yoga Wheel",
           "description":"Evolve and deepen your yoga practice with our Cork Yoga wheel. It’s a revolutionary prop that offers a wide variety of physical benefits and support with challenging postures. With our yoga wheel you can enhance flexibility, strengthen the full body and improve balance and stability. Yoga wheels are fun, dynamic and challenging! Our cork yoga wheel is made from the bark of the cork oak tree, which is a renewable and recyclable resource. Cork bark is naturally antibacterial, eradicating germs and bacteria that cause bad odors, so you can breathe easy knowing that your cork yoga wheel isn’t home to any nasties.",
           "price":65.99,
           "category":12,
           "rating":4.8,
-          "image_url":"https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Cork-Wheel-2.0_540x.jpg?v=1625206751",
-          "image":"Cork-Wheel-2.0_540x.jpg"
+          "image_url":"https://www.casall.com/storage/121A6DF2471834B59CB9469A96D27F962082EC48BC341B2A8E950F3BF451A59F/1f31a14fc3954a88aeecaa6a92e05b30/png/media/94429be2ff2140fd83f31068d2f7aa27/1-74111101.png",
+          "image":"1-74111101.png"
        }
     },
     {
