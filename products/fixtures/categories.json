@@ -67,12 +67,20 @@
         "pk": 9,
         "model": "products.category",
         "fields": {
+            "name": "new_accessories",
+            "friendly_name": "New Accessories"
+        }
+    },
+    {
+        "pk": 10,
+        "model": "products.category",
+        "fields": {
             "name": "mats",
             "friendly_name": "Mats"
         }
     },
     {
-        "pk": 10,
+        "pk": 11,
         "model": "products.category",
         "fields": {
             "name": "bags",
@@ -80,7 +88,7 @@
         }
     },
     {
-        "pk": 11,
+        "pk": 12,
         "model": "products.category",
         "fields": {
             "name": "gear",
@@ -88,11 +96,19 @@
         }
     },
     {
-        "pk": 12,
+        "pk": 13,
         "model": "products.category",
         "fields": {
             "name": "accessories",
             "friendly_name": "Accessories"
+        }
+    },
+    {
+        "pk": 14,
+        "model": "products.category",
+        "fields": {
+            "name": "sale_accessories",
+            "friendly_name": "Sale Accessories"
         }
     }
 ]

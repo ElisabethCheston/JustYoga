@@ -18,11 +18,11 @@
                 Woman
             </a>
             <div class="dropdown-menu drop-nav border-0" aria-labelledby="clothing-link">
-                <a href="" class="dropdown-item">New Arrivals</a>
-                <a href="" class="dropdown-item">Tops</a>
-                <a href="" class="dropdown-item">Bottoms</a>
-                <a href="" class="dropdown-item">Sale</a>
-                <a href="" class="dropdown-item">All Womens Products</a>
+                <a href="{% url 'products' %}?category=new_woman" class="dropdown-item">New Arrivals</a>
+                <a href="{% url 'products' %}?category=tops_woman" class="dropdown-item">Tops</a>
+                <a href="{% url 'products' %}?category=bottoms_woman" class="dropdown-item">Bottoms</a>
+                <a href="{% url 'products' %}?category=sale_woman" class="dropdown-item">Sale</a>
+                <a href="{% url 'products' %}?category=new_woman,tops_woman,bottoms_woman,sale_woman" class="dropdown-item">All Womens Products</a>
             </div>
         </li>
 
@@ -31,11 +31,11 @@
                 Men
             </a>
             <div class="dropdown-menu drop-nav border-0" aria-labelledby="clothing-link">
-                <a href="" class="dropdown-item">New Arrivals</a>
-                <a href="" class="dropdown-item">Tops</a>
-                <a href="" class="dropdown-item">Bottoms</a>
-                <a href="" class="dropdown-item">Sale</a>
-                <a href="" class="dropdown-item">All Men Products</a>
+                <a href="{% url 'products' %}?category=new_men" class="dropdown-item">New Arrivals</a>
+                <a href="{% url 'products' %}?category=tops_men" class="dropdown-item">Tops</a>
+                <a href="{% url 'products' %}?category=bottoms_men" class="dropdown-item">Bottoms</a>
+                <a href="{% url 'products' %}?category=sale_men" class="dropdown-item">Sale</a>
+                <a href="{% url 'products' %}?category=new_men,tops_men,bottoms_men,sale_men" class="dropdown-item">All Men Products</a>
             </div>
         </li>
 
@@ -44,11 +44,12 @@
                 Accessories
             </a>
             <div class="dropdown-menu drop-nav border-0" aria-labelledby="clothing-link">
-                <a href="" class="dropdown-item">New Arrivals</a>
-                <a href="" class="dropdown-item">Mats</a>
-                <a href="" class="dropdown-item">Bags</a>
-                <a href="" class="dropdown-item">Gear</a>
-                <a href="" class="dropdown-item">Sale</a>
+                <a href="{% url 'products' %}?category=new_accessories" class="dropdown-item">New Arrivals</a>
+                <a href="{% url 'products' %}?category=mats" class="dropdown-item">Mats</a>
+                <a href="{% url 'products' %}?category=bags" class="dropdown-item">Bags</a>
+                <a href="{% url 'products' %}?category=gear" class="dropdown-item">Gear</a>
+                <a href="{% url 'products' %}?category=sale_accessories" class="dropdown-item">Sale</a>
+                <a href="{% url 'products' %}?category=new_arrivals,mats,bags,gear,sale_accessories" class="dropdown-item">Sale</a>
             </div>
         </li>
 
