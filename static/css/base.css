@@ -9,12 +9,6 @@ body {
     color: #555;
     font-family: 'Lato';
 }
-.top-nav {
-    background-color: rgba(100, 100, 100, 0.4) !important;
-}
-.drop-nav {
-    background-color: rgba(250, 250, 250, 0.99) !important;
-}
 
 /* from Bulma */
 .icon {
@@ -80,9 +74,9 @@ body {
 
 /* Slightly larger container on xl screens */
 @media (min-width: 1200px) {
-    .container {
-        max-width: 80%;
-    }
+  .container {
+    max-width: 80%;
+  }
 }
 
 /* fixed top navbar only on medium and up */
@@ -97,5 +91,16 @@ body {
 
     .header-container {
         padding-top: 164px;
+    }
+}
+
+/* pad the top a bit when navbar is collapsed on mobile */
+@media (max-width: 991px) {
+    .header-container {
+        padding-top: 116px;
+    }
+
+    body {
+        height: calc(100vh - 116px);
     }
 }
