@@ -186,13 +186,13 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5002910572",
-          "name":"Yogamatters Reclaim Eco Yoga Brick - Black",
+          "name":"Reclaim Eco Yoga Brick - Black",
           "description":"Bricks are ideal for adding lift or grounding in all manner of poses. They can help stabilise and add height in standing and balancing poses or can be placed between the knees to activate the inner leg muscles. The ultimate zero waste choice made from post production waste. Bevelled edges and corners for additional comfort and an easier hand grip. Extra durable and scratch resistant. Light enough to carry between classes, yet sturdy enough to bear your weight in postures. If you'd like to go for a larger size, please find it here. Made in Spain",
           "price":24.99,
           "category":12,
           "rating":4.7,
           "image_url":"https://cdn.shopify.com/s/files/1/0278/7259/1939/products/Reclaim-Black-Brick-Wrapped_540x.jpg",
-          "image":"Reclaim-Black-Brick-Wrapped_540x.jpg"
+          "image":"black-brick.jpeg"
        }
     },
     {
@@ -228,7 +228,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5003070787",
-          "name":"Yogaleggings Balance Cinnamon High Waist 7/8 - Dharma Bums",
+          "name":"Balance Cinnamon High Waist 7/8 - Dharma Bums",
           "description":"Yogaleggings Balance Cinnamon från Dharma Bums med fantastisk passform och skönt material. Dessa leggings är en riktig favorit med en superfin gråbrun ton och livligt men diskret beige mönster. Yogatightsen har hög midja med bred linning som sitter på plats i alla rörelser. Tillverkade av högkvalitativt, stretchigt material som känns mjukt och följer din kropp i alla positioner under yogapasset. Sömmarna är designade för att inte kännas mot huden och bidrar till komforten. Materialet har 4-vägsstretch, är fuktabsorberande och snabbtorkande samtidigt som det andas. Detta gör att tightsen passar bra till såväl yoga och pilates som gym och annan fitness. Om du ligger mellan två storlekar är det bäst att gå upp en storlek för bästa passform.",
           "price":69.99,
           "category":1,
@@ -242,7 +242,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5003090182",
-          "name":"Yogabyxor Ananda leggings Forest - Indigo Luna",
+          "name":"Ananda leggings Forest - Indigo Luna",
           "description":"Ananda leggings är ett par supersköna, handfärgade yogatights från Indigo Luna. Färgen Forest har en mjuk, mörkgrön nyans som är så vacker och som passar till mycket. Byxorna är tillverkade i mjuk GOTS-certifierad ekologisk bomull. Denna certifiering innebär att bomullen odlas utan GMO, utan skadliga kemikalier som gödselmedel, bekämpningsmedel och insektsmedel, och med spårbarhet från bomullsfält till slutkunden inklusive transaktionscertifikat i varje steg.",
           "price":69.99,
           "category":3,
@@ -256,7 +256,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5003090186",
-          "name":"Yogabyxor Layla Flares Aubergine - Indigo Luna",
+          "name":"Layla Flares Aubergine - Indigo Luna",
           "description":"Layla flares från Indigo Luna är så mjuka och vackra. Perfekt yoga- och dansbyxa i en vacker mild aubergine färg. När du sätter på dessa kommer du att flöda i flera dagar. Ett vackert, smickrande högt, vikbart midjeband och vida ben. FRIHET! Matcha med den mjuka toppen Boxy Crop Top från samma märke, för att fullända din outfit.",
           "price":82.99,
           "category":1,
@@ -270,7 +270,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5003161326",
-          "name":"Yogaleggings Gaia Lagoon - Urban Goddess",
+          "name":"Gaia Lagoon - Urban Goddess",
           "description":"Urban Godess Yogaleggings Gaia är superbekväma och har tillverkats med mjuk, GOTS-certifierad ekologisk bomull. Yogatightsen har extra lång ben ben som du antingen kan ha rynkade nertill för en snygg effekt eller dra ner över fötterna vid t.ex savasana.  Honeysuckle är en mjuk, havregul nyans. Hög midja för optimal passform och rörlighet när du utför dina asanas. En extra detalj är de snygga sömmarna på baksidan av byxan.",
           "price":69.99,
           "category":3,
@@ -284,7 +284,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5003230723",
-          "name":"Yogabyxa OM Urban Black - Urban Goddess",
+          "name":"Urban Black - Urban Goddess",
           "description":"Ny härlig yogabyxa i GOTS-certifierad ekologisk bomull ifrån Urban Goddess. Trendiga yoga leggings med lite lösare passform och en sänkt gren vilket gör dessa så underbart sköna till yogan. Hög midja med skönt midjeband. Den fina rynkade sömmen på midjebandets baksida ger dessutom denna byxan en extra snygg detalj. Det nedvikbara midjebandet kan bäras högt eller lågt, vad som känns bra för din kropp. Tack vare den lösare passformen så känner du knappt att du bär dessa leggings och den lite  lösare passformen ger även extra utrymme och frihet att röra sig under ditt yogaflow. På så sätt kan du enkelt göra alla dina favoritasanas.  ",
           "price":69.99,
           "category":3,
@@ -298,7 +298,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5003270936",
-          "name":"Yogabyxa Dakini Pine - Urban Goddess",
+          "name":"Dakini Pine - Urban Goddess",
           "description":"Urban Goddess superpopulära yogabyxa Dakini är både snygga och sköna! Byxan har en bekväm lös passform och är producerade med ekologisk bomull av högsta kvalitét. Midjebandet är mjukt och rakt för att ge stöd åt magen, medan mittparten av byxorna har av en lösare passform ner till anklarna, som även de är mer åtsmitande - vilket gör att de håller sig på plats också vid de uppochnervända yogaposerna. Byxorna är perfekta då du inte vill ha tajta yogaleggings, eller för de yogisar som helt enkelt trivs bättre i lösare byxor överlag. Oavsett vilket så är Dakini yogabyxor ett utomordentligt tillskott i garderoben - både till yoga och för att slappa i hemma.",
           "price":69.99,
           "category":1,
@@ -312,7 +312,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5003360384",
-          "name":"Byxor Annabell Satin Taupe - DOM",
+          "name":"Annabell Satin Taupe - DOM",
           "description":"Byxor i modellen Annabell och färgen Satin Taupe från Drop of Mindfulness. Superhärlig mjukisbyxa med högre midja och hög mud vid anklar. Skönt, lösare passform, resår vid benslut och snörning i midjan. Har två praktiska sneda fickor på sidan. Byxorna är perfekta att ha att mysa i på fritiden eller till och från dina Yogklasser. I snygg ljusbeige nyans med gråa toner som går att matcha ihop med allt annat i yogagraderoben! ",
           "price":49.99,
           "category":3,
@@ -326,7 +326,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5003440111",
-          "name":"Byxor Aladin Pants Black - Soul Factory",
+          "name":"Aladin Pants Black - Soul Factory",
           "description":"Aladin Pants är en riktig Must have! En storsäljare i Follow Your Soul-kollektionen. Snyggare och mer bekväm byxa får man leta efter. Följsamt, mjukt tyg i GOTS-certifierad bomull. Byxan har en hög midja med slätt midjeband för att undvika veck runt höft/stuss. En lång, lite lösare mudd längst ner som kan rynkas lite olika beroende på hur lång du är. Oavsett hur den rynkas så är det lika snygg och gör att byxans passform blir unik just för dig och din kropp. Vid midjan sitter en fin liten silverfärgad bricka med texten ”Follow Your Soul” som ger en extra detalj till den redan snygga byxan.",
           "price":82.0,
           "category":3,
@@ -340,7 +340,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5003540313",
-          "name":"Yogabyxa OM Bombay Brown - Urban Goddess",
+          "name":"Bombay Brown - Urban Goddess",
           "description":"Ny härlig yogabyxa i GOTS-certifierad ekologisk bomull ifrån Urban Goddess. Trendiga yoga leggings med lite lösare passform och en sänkt gren vilket gör dessa så underbart sköna till yogan. Hög midja med skönt midjeband. Den fina rynkade sömmen på midjebandets baksida ger dessutom denna byxan en extra snygg detalj. Det nedvikbara midjebandet kan bäras högt eller lågt, vad som känns bra för din kropp. Tack vare den lösare passformen så känner du knappt att du bär dessa leggings och den lite  lösare passformen ger även extra utrymme och frihet att röra sig under ditt yogaflow. På så sätt kan du enkelt göra alla dina favoritasanas.",
           "price":69.99,
           "category":3,
@@ -354,7 +354,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5003560513",
-          "name":"Yogabyxa Dharma Harem Urban Black - Urban Goddess",
+          "name":"Dharma Harem Urban Black - Urban Goddess",
           "description":"Härliga svarta harem byxor i ekologisk bomull ifrån Urban Goddess . Yoga harem byxor är ett utmärkt val för de lugnare yogaklasserna som tex. yin, dom ger dig fri rörlighet i alla positioner. Dharma yoga haremsbyxor är en lite kortare och modernare version av haremsbyxorna. Du kan enkelt anpassa längden. Använd dem längre som 7/8 yoga byxor eller kortare som 3/4 yoga byxor. Byxorna har ett mjukt elastiskt midjeband, vilket håller byxorna på plats. Du bär yoga haremsbyxorna lite lägre ner på dina höfter, vilket gör den till en bra kombination med en yogatopp eller ett yogalinne med en liten knut. Och när du inte är på din yogamatta kan du bära byxorna för en avslappnad dag på stan eller på stranden. Urban Goddess använder ren ekologisk bomull till sina plagg. Det gör att dina yogakläder kan andas tillsammans med dig. Urban Goddess yogakläder använder ett tryck istället för etiketter för att förhindra irritation eller klåda under din heliga stunder.",
           "price":65.99,
           "category":4,
@@ -368,7 +368,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5003560948",
-          "name":"Yogaleggings Rustica - Yoga Democracy",
+          "name":"Rustica - Yoga Democracy",
           "description":"Rustica yogaleggings från Yoga Democracy. Du kommer inte hitta en häftiga byxa just nu! Jag tänker på Kurbits målningar när jag ser dom. Dessutom snyggare i verkligheten. De här yogabyxorna har hög midja, men kan också vikas ner till en låg midja utan att förlora sin passform. Materialet håller in och formar kroppen så byxorna ger ett underbart stöd under yogapasset och passar perfekt för alla kroppstyper.",
           "price":55.99,
           "category":4,
@@ -382,7 +382,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5003570628",
-          "name":"Yogatopp/linne OM Urban black - Urban Goddess",
+          "name":"Urban black - Urban Goddess",
           "description":"Denna sköna, stretchiga topp är gjord av 92 % ekologisk bomull och 8% elastan. Toppen är lite längre så den går ner över höften, perfekt för att undvika glipor när du utövar din yoga. Den smala passformen bidrar också till att tröjan inte glider upp under de mer fysiska övningarna.  OM är ett ljud som ofta används i en chant i början eller slutet av en yogaklass eller under meditation. Ljuden som utgör OM representerar livets cykel; skapande, att nå full blomning och till sist transformation. Urban Goddess använder ren ekologisk bomull till  alla sina plagg, vilket gör att kläderna andas på ett naturligt sätt. De använder tryck istället för etiketter på plaggen för att förhindra irritation och att det kliar från etiketter under sköna yogastunder.",
           "price":42.99,
           "category":2,
@@ -396,7 +396,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5003620308",
-          "name":"Yogalinne Bliss Jade - Urban Goddess",
+          "name":"Bliss Jade - Urban Goddess",
           "description":"Yogalinnet Bliss från Urban Goddess är en tajt, snygg tank topp med snygga detaljer. Linnet är tillverkat i mjuk, skön GOTS-certifierad eko-bomull.  Tank top med åtsittande passform och en något högre halsringning. Passa lika bra till Yogan som till ett par jeans på fritiden. Den här blir en ny favorit i din garderob. Se alla våra andra ekologiska toppar här.",
           "price":31.99,
           "category":1,
@@ -410,7 +410,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5003690115",
-          "name":"Yogalinne Karna Cami Cloudy Blue - Run & Relax",
+          "name":"Karna Cami Cloudy Blue - Run & Relax",
           "description":"Karna Cami Yogalinne med en klassisk ren och fräsch look! Mjuk, seamless Yoga topp tillverkad i naturligt antibakteriell bambutyg. Denna smickrande topp har en fin smal brottarrygg med remmar och är feminint rynkad framtill på bysten. Färgen Cloudy Blue är en mjuk mellanblå nyans som passar bra ihop med många andra färger. Denna topp har också en hög halslinje och inbyggd BH för full täckning och extra stöd under din yogapraktik.",
           "price":32.99,
           "category":2,
@@ -424,7 +424,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5003690116",
-          "name":"Yogalinne Open Back Top Black - Mandala",
+          "name":"Open Back Top Black - Mandala",
           "description":"Snyggt, svart yogalinne i Tencell och eko-bomull. Hög halsringning och en riktigt läcker rygg! Övre delen av ryggen är tillverkad av mesh vilket ger extra bra fukttransport och håller dig sval under ditt yoga/träningspass. Insydd yoga-bh med uttagbar vaddering håller bysten på plats under aktiva yogaövningar. Mjuk och skön känsla mot huden som gör det till en topp man vill bära utanför yogamattan. Funktionellt tyg som har 4-vägsstretch, bra andningsförmåga och transporterar bort fukt från huden.",
           "price":49.99,
           "category":1,
@@ -452,7 +452,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5003790542",
-          "name":"Shirt; Seek Those Who Fan Your Flames - SuperLove Tees",
+          "name":"Shirt;  SuperLove Tees",
           "description":"Långärmad tröja i sweatshirt modell med mudd vid ärmar och midja. Ett vitt tryck på framsidan med texten: 'Seek Those Who Fan Your Flames' och en vacker bild med ett öga, sol, hjärtan mm. Mjuk och skön, mycket stretchig modell som fungerar lika bra som den är som ovanpå ett annat plagg.",
           "price":58.99,
           "category":4,
@@ -522,7 +522,7 @@
        "model":"products.product",
        "fields":{
           "sku":"pp5003950576",
-          "name":"Yogatröja wrap tee Black - Dharma Bums",
+          "name":"Yogashirt wrap tee Black - Dharma Bums",
           "description":"Snyggt svart omlott t-shirt som du knyter i ryggen, vilket gör att du kan anpassa den i storlek något. Smickrande topp som är något kortare. Tillverkad i supermjuk  Modal som både är skön mot huden och snäll mot miljön. Verkligen snygg topp, så går att använda lika bra till yogan som till vardags.",
           "price":60.99,
           "category":2,
