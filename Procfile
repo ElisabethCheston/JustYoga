@@ -1,0 +1,1 @@
+web: gunicorn JustYoga.wsgi:application
