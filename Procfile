@@ -1,1 +1,1 @@
-web: gunicorn JustYoga.wsgi:application
+web: gunicorn just_yoga.wsgi:application
